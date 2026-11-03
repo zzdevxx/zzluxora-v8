@@ -1,4 +1,4 @@
-# 🎛️ zzluxora v8.0.0 (Gold Edition)
+﻿# 🎛️ zzluxora v8.0.0 (Gold Edition)
 
 > **Native PySide6 (Qt6) + Art-Net DMX512 Lighting Control with Audio-Reactive Scene Generation.**  
 > Edisi rilis v8 dengan tema visual *Gold Accent Edition* (`#FFD700`), konsolidasi engine *canonical color mapping* sebagai *single source of truth*, dan integrasi *default blackout safety*.
@@ -177,4 +177,4 @@ pytest tests/ -v
 ## 📜 8. Lisensi & Hak Cipta
 
 Proyek ini dilisensikan di bawah **MIT License**.  
-Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdree))** — Universitas Negeri Semarang.
+Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdevxx))** — Universitas Negeri Semarang.
