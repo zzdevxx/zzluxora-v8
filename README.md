@@ -1,4 +1,12 @@
-﻿# 🎛️ zzluxora v8.0.0 (Gold Edition)
+﻿> ## STATUS ARSIP: TIDAK AKTIF
+>
+> Repository ini berstatus arsip dan tidak aktif dikembangkan. Versi ini sudah digantikan oleh zzluxora-v10, yang menjadi lanjutan resmi lini produk ZZLUXORA.
+>
+> Isi repository ini tidak diubah dan tidak ada rilis atau pemeliharaan lanjutan. Repository tetap utuh sebagai arsip kode.
+
+---
+
+# 🎛️ zzluxora v8.0.0 (Gold Edition)
 
 > **Native PySide6 (Qt6) + Art-Net DMX512 Lighting Control with Audio-Reactive Scene Generation.**  
 > Edisi rilis v8 dengan tema visual *Gold Accent Edition* (`#FFD700`), konsolidasi engine *canonical color mapping* sebagai *single source of truth*, dan integrasi *default blackout safety*.
